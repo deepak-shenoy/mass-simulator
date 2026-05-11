@@ -1,7 +1,7 @@
 # Mass Simulator
-Experiments with forces, mass and gravity.  Using React.js and Saucer to create
+Experiments with forces, mass and gravity.  Using React (with [React JSX](https://react.dev/learn/writing-markup-with-jsx)) and [Saucer](https://saucer.app/) to create
 a desktop application to view the simulation of collision balls and also 
-Particle Lenia.
+Particle Lenia.  The SVG graphics are rendered using the [D3](https://d3js.org/) (JavaScript) library.
 
 ![collisionballs.gif](artifacts/img/collisionballs.gif)
 Collision Balls
