@@ -1,1 +1,4 @@
-https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2026-05-09&endtime=2026-05-10
+# Mass Simulation
+Experiments with forces, mass and gravity
+
+Technical experimentation with ReactJS with Saucer
