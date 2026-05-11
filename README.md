@@ -14,4 +14,5 @@ to this desktop implementation.
 
 ## References
 [1] Particle Lenia and the Energy Based Formulation, Google Research, Mordvintsev, Niklasson and Randazzo - https://google-research.github.io/self-organising-systems/particle-lenia/
+
 [2] Observable Implementation of Particle Lenia, Mordvintsev, 2023, https://observablehq.com/@znah/particle-lenia-from-scratch
