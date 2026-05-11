@@ -1,3 +1,10 @@
+/*
+ * Mass Simulator
+ * May 10th, 2026
+ * Desktop Application
+ *
+ */
+
 #include <saucer/smartview.hpp>
 #include <saucer/embedded/all.hpp>
 #include <saucer/icon.hpp>
